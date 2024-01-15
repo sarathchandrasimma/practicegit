@@ -8,3 +8,4 @@ a = "sarathchandra"
 for i in range(0,10):
     print(f"{i+1}.my name is {a}")
 print ("thanks for visiting my github")
+print ("i'm out of for loop")got
