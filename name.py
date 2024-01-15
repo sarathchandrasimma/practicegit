@@ -5,7 +5,18 @@ a = "sarathchandra"
 #         if(i<=j):
 #             break
     
+<<<<<<< HEAD
 for i in range(0,10):
     print(f"{i+1}.my name is {a}")
 print ("thanks for visiting my github")
 print ("i'm out of for loop")got
+=======
+# for i in range(0,10):
+#     print(f"{i+1}.my name is {a}")
+# print ("thanks for visiting my github")
+i=1
+while(i<11)
+    print(f"{i}.my name is sarathchandra")
+    i++
+print("i'm out of while loop")
+>>>>>>> f1
